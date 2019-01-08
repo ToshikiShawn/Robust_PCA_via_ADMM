@@ -1,4 +1,4 @@
-_Robust Principal Component Analysis_
+# Robust Principal Component Analysis
 
 For the idea of RPCA, please see <https://statweb.stanford.edu/~candes/papers/RobustPCA.pdf>
 
